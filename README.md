@@ -10,6 +10,7 @@ It is permissible to replace NaN with zero's to better utilize dataset.
 User is able to calculate statistics for the Ratings dataset given that it is grouped by "MovieID" and "Rating".
 Theres is a connection to Postgress/SQL to load datasets using this function.
 ![ratings](https://user-images.githubusercontent.com/99519095/171478192-ef5a8302-029c-4efd-832a-3e45433fd7fc.png)
+![movie_rating](https://user-images.githubusercontent.com/99519095/171515475-b9e7b4d9-6fbd-4c19-83ca-9f95ce3293cd.png)
 
 <img width="756" alt="movies_df" src="https://user-images.githubusercontent.com/99519095/171477544-f08c7288-b75e-4bc5-8a07-52ca5c49c798.png">
 <img width="360" alt="wiki_movies_df_columns" src="https://user-images.githubusercontent.com/99519095/171477546-55673502-a42d-4ef0-b0c5-f7acc8ae5095.png">
